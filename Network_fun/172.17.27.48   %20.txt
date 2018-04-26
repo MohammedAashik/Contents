@@ -1,0 +1,33 @@
+
+ 172.17.27.48   /20
+
+                                                                
+         172.17.27.48              =>   10101100.00010001.00011011.00110000                            
+                                                           
+          255.255.240.0         =>   11111111.11111111.11110000.00000000                         
+                                  
+
+	No. of subnet bits taken for subnetting                         : 4
+	
+	No. of sub networks possible with this subnetting       : 2^4=16
+	
+	No. of host bits remaining available                             : 3
+	
+	No. of hosts that is possible in each of the subnet      : 2^3-2 = 6
+	
+	First Host Address                                                         : 172.17.16.1
+	
+	Last Host Address                                                          : 172.17.31.254
+	
+	Network Address of this IP Address                              : 172.17.16.0
+	
+	Previous subnet Address to the current subnet            : 172.17.32.0
+                
+	Next subnet Address to the current subnet                   : 172.17.0.0
+	
+	Broadcast Address of this N/w Address                        : 172.17.31.255
+	
+	Previous IP Address to this IP Address                          : 172.17.27.47
+	
+	Next IP Address to this IP Address                                : 172.17.27.49
+

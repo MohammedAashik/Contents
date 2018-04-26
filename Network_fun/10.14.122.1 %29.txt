@@ -1,0 +1,33 @@
+
+ 10.14.122.1 /29
+
+                                                                
+         10.16.137.48           =>   00001010.00001110.01111010.00000001                            
+                                                           
+          255.255.255.248       =>    11111111.11111111.11111111.11111000             
+                                  
+
+	No. of subnet bits taken for subnetting                         : 21
+	
+	No. of sub networks possible with this subnetting       : 2^21=2097152
+	
+	No. of host bits remaining available                             : 3
+	
+	No. of hosts that is possible in each of the subnet      : 2^3-2 = 6
+	
+	First Host Address                                                         : 10.14.122.1
+	
+	Last Host Address                                                          : 10.14.122.6
+	
+	Network Address of this IP Address                              : 10.14.122.0
+	
+	Previous subnet Address to the current subnet            : 10.14.122.248
+                
+	Next subnet Address to the current subnet                   : 10.14.122.8
+	
+	Broadcast Address of this N/w Address                        : 10.14.122.7
+	
+	Previous IP Address to this IP Address                          : 10.14.122.0
+	
+	Next IP Address to this IP Address                                : 10.14.122.2
+
